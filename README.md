@@ -35,7 +35,8 @@ html
 
 ## OUTPUT:
 
-![Uploading Screenshot (3).png…]()
+![Uploading Screenshot 2023-05-22 123758.png…]()
+
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
