@@ -35,7 +35,8 @@ html
 
 ## OUTPUT:
 
-![Uploading Screenshot 2023-05-22 123758.png…]()
+![Screenshot_20230523_012822](https://github.com/manikandan26052004/simplewebserver/assets/121999845/48306d0f-7427-4708-a2ea-bd03006410a8)
+
 
 
 ## RESULT:
